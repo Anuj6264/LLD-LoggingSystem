@@ -1,0 +1,3 @@
+# 1. A flexible logging system with standard severity levels.
+# 2. Support for multiple output destinations.
+# 3. Configurable filtering capabilities.
